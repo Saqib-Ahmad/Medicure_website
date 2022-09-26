@@ -1,0 +1,12 @@
+Software Requirement:VS code
+database is already connnected to the website.
+steps to run the code:-
+
+1) you need to install latest version of nodejs on your system.
+2) open VS code then open webiste folder
+2) then go to the terminal and write 'npm install' and run (this is one time process not needed to do everytime)
+3) again go to terminal write 'npm start' and wait till server is connected
+4) now go to any browser write "http://localhost:9000" and go 
+ 
+
+Main code is present in the public folder "index.html"
